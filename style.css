@@ -1,0 +1,17 @@
+#divSearch {
+
+    text-align: right;
+    margin-top: 5%;
+
+}
+
+#root {
+    display:flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.gif-image {
+max-width:100px;
+}
